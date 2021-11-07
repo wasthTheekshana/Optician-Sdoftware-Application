@@ -1,0 +1,120 @@
+May 12, 2020 2:24:09 AM Class.Log info
+INFO: Enterd
+May 30, 2020 8:12:44 PM Class.Log info
+INFO: Enterd
+May 31, 2020 3:35:24 PM Class.Log info
+INFO: Enterd
+May 31, 2020 9:58:06 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 10:21:42 AM Class.Log info
+INFO: Enterd
+Jun 02, 2020 11:01:09 AM Class.Log info
+INFO: Enterd
+Jun 02, 2020 11:04:35 AM Class.Log info
+INFO: Enterd
+Jun 02, 2020 12:34:53 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 12:35:48 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 3:38:05 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 3:54:54 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 3:56:02 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 3:56:38 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 8:06:32 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 8:24:18 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 9:52:50 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 9:53:23 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 9:54:20 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 9:54:50 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 9:57:27 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 10:04:16 PM Class.Log info
+INFO: Enterd
+Jun 02, 2020 10:04:32 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 10:04:39 PM Class.Log info
+INFO: Not Enterd
+Jun 02, 2020 10:04:56 PM Class.Log info
+INFO: Enterd
+Jun 03, 2020 1:36:14 PM Class.Log info
+INFO: Not Enterd
+Jun 03, 2020 1:36:25 PM Class.Log info
+INFO: Enterd
+Jun 03, 2020 2:33:14 PM Class.Log info
+INFO: Enterd
+Jun 03, 2020 2:34:19 PM Class.Log info
+INFO: Enterd
+Jun 03, 2020 2:50:27 PM Class.Log warning
+WARNING: java.sql.SQLException: Illegal operation on empty result set.
+Jun 03, 2020 2:51:18 PM Class.Log warning
+WARNING: java.sql.SQLException: Illegal operation on empty result set.
+Jun 03, 2020 2:52:57 PM Class.Log warning
+WARNING: java.sql.SQLException: Illegal operation on empty result set.
+Jun 03, 2020 7:10:08 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 03, 2020 7:14:57 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 04, 2020 8:38:13 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 04, 2020 8:39:08 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 04, 2020 8:49:37 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 04, 2020 8:49:44 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 05, 2020 3:56:11 AM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 05, 2020 4:23:52 AM Class.Log warning
+WARNING: java.sql.SQLException: Column 'Month(`date`)' not found.
+Jun 05, 2020 4:44:52 AM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 05, 2020 6:39:05 AM Class.Log info
+INFO: Enterd
+Jun 05, 2020 6:55:12 AM Class.Log info
+INFO: Enterd
+Jun 05, 2020 9:20:41 AM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 05, 2020 11:44:37 AM Class.Log info
+INFO: Enterd
+Jun 05, 2020 10:52:28 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: empty String
+Jun 05, 2020 11:47:43 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: empty String
+Jun 05, 2020 11:59:05 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: empty String
+Jun 06, 2020 12:20:01 AM Class.Log info
+INFO: Enterd
+Jun 06, 2020 12:25:28 AM Class.Log info
+INFO: Enterd
+Jun 06, 2020 10:11:04 AM Class.Log info
+INFO: Enterd
+Jun 06, 2020 1:17:48 PM Class.Log warning
+WARNING: java.lang.ArrayIndexOutOfBoundsException: 2 >= 2
+Jun 06, 2020 1:22:08 PM Class.Log warning
+WARNING: java.lang.ArrayIndexOutOfBoundsException: 1 >= 1
+Jun 06, 2020 8:22:13 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: empty String
+Jun 07, 2020 12:45:49 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: For input string: ""
+Jun 07, 2020 12:46:08 PM Class.Log warning
+WARNING: java.lang.NumberFormatException: For input string: ""
+Jun 07, 2020 2:33:35 PM Class.Log warning
+WARNING: java.lang.NullPointerException
+Jun 08, 2020 1:51:53 PM Class.Log info
+INFO: Enterd
+Jun 08, 2020 4:23:21 PM Class.Log info
+INFO: Not Enterd
+Jun 08, 2020 4:23:29 PM Class.Log info
+INFO: Enterd
+Oct 08, 2020 2:30:47 PM Class.Log warning
+WARNING: java.lang.NullPointerException
